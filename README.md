@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# <h2>React City Guessing App</h2>
+
+An app made with React, Leaflet, Tailwind CSS, Framer-motion, Vite
+
+![city](https://user-images.githubusercontent.com/108582184/215324983-8ba09495-ddbe-4178-a59c-330ddd1f3ec3.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
